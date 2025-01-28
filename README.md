@@ -32,7 +32,7 @@ MongoDB (locally or a cloud instance)
 Steps
 Clone the repository:
 
-git clone https://github.com/yourusername/weather-dashboard.git cd weather-dashboard
+git clone https://github.com/Ayushgoyal0803/WeatherApp.git cd weather-dashboard
 
 Install backend dependencies:
 
